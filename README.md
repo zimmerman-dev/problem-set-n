@@ -1,6 +1,8 @@
 # Problem Set N
 This project is a compilation of problems taken from textbooks and online sources. The point of making it public repo is to keep it easy to access for myself and others.
 
+*no AI used*.
+
 ## Project Structure
 ```bash
 problem-set-n/
