@@ -1,0 +1,46 @@
+# Compiled binaries
+*.out
+*.exe
+*.bin
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug symbols
+*.dSYM/
+
+# Build directories
+build/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
+
+# Emacs
+*~
+\#*\#
+.emacs.desktop
+.eln-cache/
+.projectile
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# Windows
+Thumbs.db
