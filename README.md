@@ -35,5 +35,13 @@ add_executable(problem1 problem1.c)
 add_executable(problem2 problem2.c)
 ```
 
+## Directories
+
+### Problem Set 1
+
+**problem1.c**
+
+Calculate the distance between to points on a plane.
+
 ### License
 This project is licensed under the GPL V2
